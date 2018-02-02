@@ -102155,6 +102155,10 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _Foli2 = _interopRequireDefault(_Foli);
 
+  var _MisaMaOlen = require(_dependencyMap[7], "./MisaMaOlen");
+
+  var _MisaMaOlen2 = _interopRequireDefault(_MisaMaOlen);
+
   function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
   function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
@@ -102312,7 +102316,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
             onRegionChange: this.onRegionChange,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 86
+              lineNumber: 87
             }
           },
           this.state.folit.map(function (foli) {
@@ -102323,9 +102327,15 @@ __d(function (global, require, module, exports, _dependencyMap) {
               longitude: foli.longitude,
               __source: {
                 fileName: _jsxFileName,
-                lineNumber: 93
+                lineNumber: 94
               }
             });
+          }),
+          _react3.default.createElement(_MisaMaOlen2.default, {
+            __source: {
+              fileName: _jsxFileName,
+              lineNumber: 102
+            }
           })
         );
       }
@@ -102335,7 +102345,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   }(_react3.default.Component));
 
   exports.default = App;
-},765,[111,130,14,12,661,766,784],"folit/App.js");
+},765,[111,130,14,12,661,766,784,786],"folit/App.js");
 __d(function (global, require, module, exports, _dependencyMap) {
   require(_dependencyMap[0], '../modules/web.timers');
 
@@ -102685,6 +102695,10 @@ __d(function (global, require, module, exports, _dependencyMap) {
     }, {
       key: "shouldComponentUpdate",
       value: function shouldComponentUpdate(nextProps, nextState) {
+        if (!nextProps.isInView) {
+          return false;
+        }
+
         if (this.props.latitude === nextProps.latitude && this.props.longitude === nextProps.longitude) {
           return false;
         }
@@ -102710,7 +102724,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
             coordinate: this.state.coordinate,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 60
+              lineNumber: 63
             }
           },
           _react3.default.createElement(
@@ -102727,7 +102741,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
               },
               __source: {
                 fileName: _jsxFileName,
-                lineNumber: 66
+                lineNumber: 69
               }
             },
             _react3.default.createElement(
@@ -102739,7 +102753,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
                 },
                 __source: {
                   fileName: _jsxFileName,
-                  lineNumber: 77
+                  lineNumber: 80
                 }
               },
               name
@@ -102750,7 +102764,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
               color: "green",
               __source: {
                 fileName: _jsxFileName,
-                lineNumber: 78
+                lineNumber: 81
               }
             })
           )
@@ -102763,6 +102777,169 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   exports.default = Foli;
 },784,[111,130,14,12,661],"folit/Foli.js");
+__d(function (global, require, module, exports, _dependencyMap) {
+  Object.defineProperty(exports, "__esModule", {
+    value: true
+  });
+
+  var _react2 = require(_dependencyMap[0], "react");
+
+  var _react3 = _interopRequireDefault(_react2);
+
+  var _index = require(_dependencyMap[1], "./node_modules/react-transform-hmr/lib/index.js");
+
+  var _index2 = _interopRequireDefault(_index);
+
+  var _jsxFileName = "/Users/henrik/_code/folit/MisaMaOlen.js";
+
+  var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
+
+  var _reactNative = require(_dependencyMap[2], "react-native");
+
+  var _expo = require(_dependencyMap[3], "expo");
+
+  function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+  function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+  function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
+
+  function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
+
+  var _components = {
+    MisaMaOlen: {
+      displayName: "MisaMaOlen"
+    }
+  };
+
+  var _node_modulesReactTransformHmrLibIndexJs2 = (0, _index2.default)({
+    filename: "/Users/henrik/_code/folit/MisaMaOlen.js",
+    components: _components,
+    locals: [module],
+    imports: [_react3.default]
+  });
+
+  function _wrapComponent(id) {
+    return function (Component) {
+      return _node_modulesReactTransformHmrLibIndexJs2(Component, id);
+    };
+  }
+
+  var MisaMaOlen = _wrapComponent("MisaMaOlen")(function (_React$Component) {
+    _inherits(MisaMaOlen, _React$Component);
+
+    function MisaMaOlen(props) {
+      var _this2 = this;
+
+      _classCallCheck(this, MisaMaOlen);
+
+      var _this = _possibleConstructorReturn(this, (MisaMaOlen.__proto__ || Object.getPrototypeOf(MisaMaOlen)).call(this, props));
+
+      _this._getLocationAsync = function _callee() {
+        var _ref, status, location;
+
+        return regeneratorRuntime.async(function _callee$(_context) {
+          while (1) {
+            switch (_context.prev = _context.next) {
+              case 0:
+                _context.next = 2;
+                return regeneratorRuntime.awrap(_expo.Permissions.askAsync(_expo.Permissions.LOCATION));
+
+              case 2:
+                _ref = _context.sent;
+                status = _ref.status;
+
+                if (status !== 'granted') {
+                  _this.setState({
+                    errorMessage: 'Permission to access location was denied'
+                  });
+                }
+
+                _context.next = 7;
+                return regeneratorRuntime.awrap(_expo.Location.getCurrentPositionAsync({}));
+
+              case 7:
+                location = _context.sent;
+
+                _this.setState({
+                  coordinate: {
+                    latitude: location.coords.latitude,
+                    longitude: location.coords.longitude
+                  }
+                });
+
+              case 9:
+              case "end":
+                return _context.stop();
+            }
+          }
+        }, null, _this2);
+      };
+
+      _this.state = {
+        coordinate: new _expo.MapView.AnimatedRegion({
+          latitude: 0,
+          longitude: 0
+        })
+      };
+      return _this;
+    }
+
+    _createClass(MisaMaOlen, [{
+      key: "componentWillMount",
+      value: function componentWillMount() {
+        if (_reactNative.Platform.OS === 'android' && !Constants.isDevice) {
+          this.setState({
+            errorMessage: 'Oops, this will not work on Sketch in an Android emulator. Try it on your device!'
+          });
+        } else {
+          this._getLocationAsync();
+        }
+      }
+    }, {
+      key: "render",
+      value: function render() {
+        var _this3 = this;
+
+        var _props = this.props,
+            id = _props.id,
+            name = _props.name,
+            latitude = _props.latitude,
+            longitude = _props.longitude;
+        return _react3.default.createElement(
+          _expo.MapView.Marker.Animated,
+          {
+            ref: function ref(marker) {
+              _this3.marker = marker;
+            },
+            coordinate: this.state.coordinate,
+            __source: {
+              fileName: _jsxFileName,
+              lineNumber: 46
+            }
+          },
+          _react3.default.createElement(_reactNative.View, {
+            renderToHardwareTextureAndroid: true,
+            style: {
+              backgroundColor: "blue",
+              width: 10,
+              height: 10,
+              borderRadius: 100 / 2
+            },
+            __source: {
+              fileName: _jsxFileName,
+              lineNumber: 52
+            }
+          })
+        );
+      }
+    }]);
+
+    return MisaMaOlen;
+  }(_react3.default.Component));
+
+  exports.default = MisaMaOlen;
+},786,[111,130,14,12],"folit/MisaMaOlen.js");
 require(25);
 require(11);
 //# sourceMappingURL=crna-entry.map
