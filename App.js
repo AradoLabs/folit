@@ -26,7 +26,7 @@ export default class App extends React.Component {
 
   async componentDidMount() {
     await this.fetchFolit();
-    //setInterval(this.fetchFolit, 5000);
+    setInterval(this.fetchFolit, 5000);
   }
 
   hasValidLocation(vehicle) {
@@ -51,7 +51,7 @@ export default class App extends React.Component {
       this.isInRange(
         region.latitude,
         region.longitudeDelta,
-        vehicle.latitude
+        vehicle.latitude,
       ) &&
       this.isInRange(region.longitude, region.longitudeDelta, vehicle.longitude)
     );
@@ -61,14 +61,16 @@ export default class App extends React.Component {
     const response = await fetch("https://data-new.foli.fi/siri-test/vm");
     const json = await response.json();
     const vehicles = Object.values(json.result.vehicles);
-    const validVehicles = vehicles.filter(
-      vehicle => this.hasValidLocation(vehicle)
+    let validVehicles = vehicles.filter(vehicle =>
+      this.hasValidLocation(vehicle),
     );
-    validVehicles.map(vehicle => {
-      ...vehicle,
-      isInView: this.hasLocationInRegion(vehicle, this.state.region)
-    });
     const vehicleCount = validVehicles.length;
+    validVehicles = validVehicles.map(vehicle => {
+      return {
+        ...vehicle,
+        isInView: this.hasLocationInRegion(vehicle, this.state.region),
+      };
+    });
     console.log("Vehicle count: " + vehicleCount);
     InteractionManager.runAfterInteractions(() => {
       this.setState({

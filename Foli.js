@@ -38,7 +38,6 @@ export default class Foli extends React.Component {
           .timing({
             ...nextCoordinate,
             duration,
-            useNativeDriver: true,
           })
           .start();
       }
