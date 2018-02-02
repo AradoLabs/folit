@@ -1,3 +1,8 @@
+# Fölit kartal
+<p align="center">
+  <img src="https://im2.ezgif.com/tmp/ezgif-2-4116819506.gif">
+</p>
+
 This is a sample project meant to show the ease of use of [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 We made this during [Turku Gives Back](https://www.turkugivesback.com/)
