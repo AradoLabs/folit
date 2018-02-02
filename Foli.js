@@ -45,6 +45,9 @@ export default class Foli extends React.Component {
   }
 
   shouldComponentUpdate(nextProps, nextState) {
+    if (!nextProps.isInView) {
+      return false;
+    }
     if (
       this.props.latitude === nextProps.latitude &&
       this.props.longitude === nextProps.longitude
