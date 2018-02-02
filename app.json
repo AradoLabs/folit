@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "sdkVersion": "25.0.0",
+    "name": "Fölit",
+    "version": "1.0.0",
+    "slug": "folit",
+    "ios": {
+      "bundleIdentifier": "com.arado.folit"
+    },
+    "android": {
+      "package": "com.arado.folit"
+    }
+  }
+}
