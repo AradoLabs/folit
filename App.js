@@ -46,13 +46,11 @@ export default class App extends React.Component {
   }
 
   hasLocationInRegion(vehicle, region) {
+    if (vehicle.publishedlinename == "73") {
+      const a = 1;
+    }
     return (
-      this.hasValidLocation(vehicle) &&
-      this.isInRange(
-        region.latitude,
-        region.longitudeDelta,
-        vehicle.latitude,
-      ) &&
+      this.isInRange(region.latitude, region.latitudeDelta, vehicle.latitude) &&
       this.isInRange(region.longitude, region.longitudeDelta, vehicle.longitude)
     );
   }
@@ -62,16 +60,16 @@ export default class App extends React.Component {
     const json = await response.json();
     const vehicles = Object.values(json.result.vehicles);
     let validVehicles = vehicles.filter(vehicle =>
-      this.hasValidLocation(vehicle),
+      this.hasValidLocation(vehicle)
     );
-    const vehicleCount = validVehicles.length;
     validVehicles = validVehicles.map(vehicle => {
       return {
         ...vehicle,
         isInView: this.hasLocationInRegion(vehicle, this.state.region),
       };
     });
-    console.log("Vehicle count: " + vehicleCount);
+    const vehiclesInView = validVehicles.filter(vehicle => vehicle.isInView);
+    console.log("Vehicle count: " + vehiclesInView.length);
     InteractionManager.runAfterInteractions(() => {
       this.setState({
         folit: validVehicles,

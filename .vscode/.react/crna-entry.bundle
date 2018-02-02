@@ -27929,7 +27929,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 __d(function (global, require, module, exports, _dependencyMap) {
   'use strict';
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/ActivityIndicator/ActivityIndicator.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/ActivityIndicator/ActivityIndicator.js";
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
@@ -28109,7 +28109,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _index2 = _interopRequireDefault(_index);
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/UnimplementedViews/UnimplementedView.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/UnimplementedViews/UnimplementedView.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -28128,7 +28128,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/UnimplementedViews/UnimplementedView.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/UnimplementedViews/UnimplementedView.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -33364,7 +33364,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/View/View.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/View/View.js";
 
   var NativeMethodsMixin = require(_dependencyMap[0], "NativeMethodsMixin");
 
@@ -34761,7 +34761,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _class,
       _temp,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/ART/ReactNativeART.js",
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/ART/ReactNativeART.js",
       _class2,
       _temp2;
 
@@ -34792,7 +34792,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/ART/ReactNativeART.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/ART/ReactNativeART.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -36276,7 +36276,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _class,
       _temp,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/Button.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/Button.js";
 
   function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -36293,7 +36293,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/Button.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/Button.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -36467,7 +36467,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 __d(function (global, require, module, exports, _dependencyMap) {
   'use strict';
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Text/Text.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Text/Text.js";
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
@@ -36719,7 +36719,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/Touchable/Touchable.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/Touchable/Touchable.js";
 
   var BoundingDimensions = require(_dependencyMap[0], "BoundingDimensions");
 
@@ -37399,7 +37399,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _index2 = _interopRequireDefault(_index);
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/Touchable/TouchableNativeFeedback.ios.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/Touchable/TouchableNativeFeedback.ios.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -37418,7 +37418,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/Touchable/TouchableNativeFeedback.ios.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/Touchable/TouchableNativeFeedback.ios.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -37498,7 +37498,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 __d(function (global, require, module, exports, _dependencyMap) {
   'use strict';
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/Touchable/TouchableOpacity.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/Touchable/TouchableOpacity.js";
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
@@ -41564,7 +41564,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Animated/src/createAnimatedComponent.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Animated/src/createAnimatedComponent.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -41584,7 +41584,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Animated/src/createAnimatedComponent.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Animated/src/createAnimatedComponent.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -41776,7 +41776,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Image/Image.ios.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Image/Image.ios.js";
 
   var EdgeInsetsPropType = require(_dependencyMap[0], "EdgeInsetsPropType");
 
@@ -41932,7 +41932,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 __d(function (global, require, module, exports, _dependencyMap) {
   'use strict';
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/ScrollView/ScrollView.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/ScrollView/ScrollView.js";
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
@@ -42781,7 +42781,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _index2 = _interopRequireDefault(_index);
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/ScrollView/ScrollViewStickyHeader.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/ScrollView/ScrollViewStickyHeader.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -42800,7 +42800,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/ScrollView/ScrollViewStickyHeader.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/ScrollView/ScrollViewStickyHeader.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -43171,7 +43171,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 __d(function (global, require, module, exports, _dependencyMap) {
   'use strict';
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/DatePicker/DatePickerIOS.ios.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/DatePicker/DatePickerIOS.ios.js";
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
@@ -43301,7 +43301,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _class,
       _temp,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Lists/FlatList.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Lists/FlatList.js";
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
@@ -43320,7 +43320,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index3.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Lists/FlatList.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Lists/FlatList.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -43658,7 +43658,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _class,
       _temp2,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Lists/MetroListView.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Lists/MetroListView.js";
 
   function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -43675,7 +43675,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Lists/MetroListView.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Lists/MetroListView.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -43892,7 +43892,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 __d(function (global, require, module, exports, _dependencyMap) {
   'use strict';
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Lists/ListView/ListView.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Lists/ListView/ListView.js";
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
@@ -44692,7 +44692,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/StaticRenderer.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/StaticRenderer.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -44777,7 +44777,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 __d(function (global, require, module, exports, _dependencyMap) {
   'use strict';
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/RefreshControl/RefreshControl.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/RefreshControl/RefreshControl.js";
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
@@ -44886,7 +44886,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   var _class,
       _temp,
       _initialiseProps,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Lists/VirtualizedList.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Lists/VirtualizedList.js";
 
   function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -44908,7 +44908,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index3.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Lists/VirtualizedList.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Lists/VirtualizedList.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -46813,7 +46813,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Image/ImageBackground.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Image/ImageBackground.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -46834,7 +46834,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Image/ImageBackground.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Image/ImageBackground.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -47015,7 +47015,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 __d(function (global, require, module, exports, _dependencyMap) {
   'use strict';
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/Keyboard/KeyboardAvoidingView.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/Keyboard/KeyboardAvoidingView.js";
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
@@ -47343,7 +47343,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _class,
       _temp2,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/MaskedView/MaskedViewIOS.ios.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/MaskedView/MaskedViewIOS.ios.js";
 
   function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -47362,7 +47362,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/MaskedView/MaskedViewIOS.ios.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/MaskedView/MaskedViewIOS.ios.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -47481,7 +47481,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _class,
       _temp,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Modal/Modal.js",
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Modal/Modal.js",
       _container;
 
   function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
@@ -47501,7 +47501,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Modal/Modal.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Modal/Modal.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -47711,7 +47711,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _class,
       _temp2,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/ReactNative/AppContainer.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/ReactNative/AppContainer.js";
 
   function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -47728,7 +47728,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/ReactNative/AppContainer.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/ReactNative/AppContainer.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -47919,7 +47919,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   var _class,
       _temp,
       _initialiseProps,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Inspector/Inspector.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Inspector/Inspector.js";
 
   function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -47936,7 +47936,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Inspector/Inspector.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Inspector/Inspector.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -48276,7 +48276,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _class,
       _temp2,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Inspector/InspectorOverlay.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Inspector/InspectorOverlay.js";
 
   function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -48293,7 +48293,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Inspector/InspectorOverlay.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Inspector/InspectorOverlay.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -48418,7 +48418,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _index2 = _interopRequireDefault(_index);
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Inspector/ElementBox.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Inspector/ElementBox.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -48437,7 +48437,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Inspector/ElementBox.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Inspector/ElementBox.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -48572,7 +48572,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _index2 = _interopRequireDefault(_index);
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Inspector/BorderBox.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Inspector/BorderBox.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -48591,7 +48591,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Inspector/BorderBox.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Inspector/BorderBox.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -48708,7 +48708,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _index2 = _interopRequireDefault(_index);
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Inspector/InspectorPanel.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Inspector/InspectorPanel.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -48730,7 +48730,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Inspector/InspectorPanel.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Inspector/InspectorPanel.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -49028,7 +49028,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _class,
       _temp,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Inspector/ElementProperties.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Inspector/ElementProperties.js";
 
   function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -49045,7 +49045,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Inspector/ElementProperties.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Inspector/ElementProperties.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -49313,7 +49313,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _index2 = _interopRequireDefault(_index);
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Inspector/BoxInspector.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Inspector/BoxInspector.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -49335,7 +49335,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Inspector/BoxInspector.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Inspector/BoxInspector.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -49605,7 +49605,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _index2 = _interopRequireDefault(_index);
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Inspector/StyleInspector.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Inspector/StyleInspector.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -49624,7 +49624,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Inspector/StyleInspector.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Inspector/StyleInspector.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -49765,7 +49765,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 __d(function (global, require, module, exports, _dependencyMap) {
   'use strict';
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/Touchable/TouchableHighlight.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/Touchable/TouchableHighlight.js";
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
@@ -49999,7 +49999,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _index2 = _interopRequireDefault(_index);
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Inspector/NetworkOverlay.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Inspector/NetworkOverlay.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -50018,7 +50018,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Inspector/NetworkOverlay.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Inspector/NetworkOverlay.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -51083,7 +51083,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _index2 = _interopRequireDefault(_index);
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Inspector/PerformanceOverlay.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Inspector/PerformanceOverlay.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -51102,7 +51102,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Inspector/PerformanceOverlay.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Inspector/PerformanceOverlay.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -51230,7 +51230,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/ReactNative/YellowBox.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/ReactNative/YellowBox.js";
 
   function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -51249,7 +51249,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/ReactNative/YellowBox.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/ReactNative/YellowBox.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -52017,7 +52017,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _class,
       _temp,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/SafeAreaView/SafeAreaView.ios.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/SafeAreaView/SafeAreaView.ios.js";
 
   function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -52034,7 +52034,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/SafeAreaView/SafeAreaView.ios.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/SafeAreaView/SafeAreaView.ios.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -52108,7 +52108,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/Navigation/NavigatorIOS.ios.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/Navigation/NavigatorIOS.ios.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -52129,7 +52129,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/Navigation/NavigatorIOS.ios.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/Navigation/NavigatorIOS.ios.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -52645,7 +52645,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/StaticContainer.react.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/StaticContainer.react.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -52703,7 +52703,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
       _temp,
       _class2,
       _temp2,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/Picker/Picker.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/Picker/Picker.js";
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
@@ -52725,7 +52725,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/Picker/Picker.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/Picker/Picker.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -52864,7 +52864,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/Picker/PickerIOS.ios.js",
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/Picker/PickerIOS.ios.js",
       _class,
       _temp;
 
@@ -52883,7 +52883,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/Picker/PickerIOS.ios.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/Picker/PickerIOS.ios.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -53049,7 +53049,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 __d(function (global, require, module, exports, _dependencyMap) {
   'use strict';
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/ProgressViewIOS/ProgressViewIOS.ios.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/ProgressViewIOS/ProgressViewIOS.ios.js";
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
@@ -53113,7 +53113,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _class,
       _temp2,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Lists/SectionList.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Lists/SectionList.js";
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
@@ -53132,7 +53132,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Lists/SectionList.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Lists/SectionList.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -53259,7 +53259,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _class,
       _temp,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Lists/VirtualizedSectionList.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Lists/VirtualizedSectionList.js";
 
   function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -53279,7 +53279,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Lists/VirtualizedSectionList.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Lists/VirtualizedSectionList.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -53721,7 +53721,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 __d(function (global, require, module, exports, _dependencyMap) {
   'use strict';
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/SegmentedControlIOS/SegmentedControlIOS.ios.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/SegmentedControlIOS/SegmentedControlIOS.ios.js";
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
@@ -53785,7 +53785,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 __d(function (global, require, module, exports, _dependencyMap) {
   'use strict';
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/Slider/Slider.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/Slider/Slider.js";
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
@@ -53933,7 +53933,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _class,
       _temp2,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/RCTTest/SnapshotViewIOS.ios.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/RCTTest/SnapshotViewIOS.ios.js";
 
   function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -53950,7 +53950,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/RCTTest/SnapshotViewIOS.ios.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/RCTTest/SnapshotViewIOS.ios.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -54033,7 +54033,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 __d(function (global, require, module, exports, _dependencyMap) {
   'use strict';
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/Switch/Switch.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/Switch/Switch.js";
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
@@ -54180,7 +54180,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/StatusBar/StatusBar.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/StatusBar/StatusBar.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -54425,7 +54425,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _class,
       _temp,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Experimental/SwipeableRow/SwipeableFlatList.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Experimental/SwipeableRow/SwipeableFlatList.js";
 
   function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -54442,7 +54442,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Experimental/SwipeableRow/SwipeableFlatList.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Experimental/SwipeableRow/SwipeableFlatList.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -54608,7 +54608,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Experimental/SwipeableRow/SwipeableRow.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Experimental/SwipeableRow/SwipeableRow.js";
 
   var Animated = require(_dependencyMap[0], "Animated");
 
@@ -55078,7 +55078,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _class,
       _temp,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Experimental/SwipeableRow/SwipeableListView.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Experimental/SwipeableRow/SwipeableListView.js";
 
   function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -55095,7 +55095,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Experimental/SwipeableRow/SwipeableListView.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Experimental/SwipeableRow/SwipeableListView.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -55390,7 +55390,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _class,
       _temp,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/TabBarIOS/TabBarIOS.ios.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/TabBarIOS/TabBarIOS.ios.js";
 
   function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -55407,7 +55407,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/TabBarIOS/TabBarIOS.ios.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/TabBarIOS/TabBarIOS.ios.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -55503,7 +55503,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _class,
       _temp2,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/TabBarIOS/TabBarItemIOS.ios.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/TabBarIOS/TabBarItemIOS.ios.js";
 
   function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -55522,7 +55522,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/TabBarIOS/TabBarItemIOS.ios.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/TabBarIOS/TabBarItemIOS.ios.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -55662,7 +55662,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 __d(function (global, require, module, exports, _dependencyMap) {
   'use strict';
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/TextInput/TextInput.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/TextInput/TextInput.js";
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
@@ -56691,7 +56691,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/WebView/WebView.ios.js",
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/WebView/WebView.ios.js",
       _class,
       _temp2;
 
@@ -56710,7 +56710,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native/Libraries/Components/WebView/WebView.ios.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native/Libraries/Components/WebView/WebView.ios.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -57464,7 +57464,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native/Libraries/ReactNative/renderApplication.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native/Libraries/ReactNative/renderApplication.js";
 
   function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
@@ -64554,7 +64554,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/expo/src/launch/registerRootComponent.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/expo/src/launch/registerRootComponent.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -64588,7 +64588,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/expo/src/launch/registerRootComponent.js",
+    filename: "/Users/henrik/_code/folit/node_modules/expo/src/launch/registerRootComponent.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -65459,7 +65459,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _index2 = _interopRequireDefault(_index);
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/expo/src/launch/RootErrorBoundary.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/expo/src/launch/RootErrorBoundary.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -65484,7 +65484,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/expo/src/launch/RootErrorBoundary.js",
+    filename: "/Users/henrik/_code/folit/node_modules/expo/src/launch/RootErrorBoundary.js",
     components: _components,
     locals: [module],
     imports: [React.default]
@@ -65647,7 +65647,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _index2 = _interopRequireDefault(_index);
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/expo/src/launch/AppLoading.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/expo/src/launch/AppLoading.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -65674,7 +65674,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/expo/src/launch/AppLoading.js",
+    filename: "/Users/henrik/_code/folit/node_modules/expo/src/launch/AppLoading.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -65839,7 +65839,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _index2 = _interopRequireDefault(_index);
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/expo/src/launch/AppLoadingNativeWrapper.ios.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/expo/src/launch/AppLoadingNativeWrapper.ios.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -65860,7 +65860,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/expo/src/launch/AppLoadingNativeWrapper.ios.js",
+    filename: "/Users/henrik/_code/folit/node_modules/expo/src/launch/AppLoadingNativeWrapper.ios.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -67020,7 +67020,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _class,
       _temp2,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/expo/src/GLView.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/expo/src/GLView.js";
 
   var _propTypes = require(_dependencyMap[2], "prop-types");
 
@@ -67053,7 +67053,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/expo/src/GLView.js",
+    filename: "/Users/henrik/_code/folit/node_modules/expo/src/GLView.js",
     components: _components,
     locals: [module],
     imports: [React.default]
@@ -69601,7 +69601,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/expo/src/admob/RNAdMobBanner.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/expo/src/admob/RNAdMobBanner.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -69626,7 +69626,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/expo/src/admob/RNAdMobBanner.js",
+    filename: "/Users/henrik/_code/folit/node_modules/expo/src/admob/RNAdMobBanner.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -69745,7 +69745,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/expo/src/admob/RNPublisherBanner.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/expo/src/admob/RNPublisherBanner.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -69770,7 +69770,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/expo/src/admob/RNPublisherBanner.js",
+    filename: "/Users/henrik/_code/folit/node_modules/expo/src/admob/RNPublisherBanner.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -70086,7 +70086,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _class,
       _temp,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/expo/src/CameraBasedBarCodeScanner.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/expo/src/CameraBasedBarCodeScanner.js";
 
   var _Camera = require(_dependencyMap[2], "./Camera");
 
@@ -70107,7 +70107,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/expo/src/CameraBasedBarCodeScanner.js",
+    filename: "/Users/henrik/_code/folit/node_modules/expo/src/CameraBasedBarCodeScanner.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -70183,7 +70183,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _class,
       _temp,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/expo/src/Camera.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/expo/src/Camera.js";
 
   var _propTypes = require(_dependencyMap[2], "prop-types");
 
@@ -70208,7 +70208,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/expo/src/Camera.js",
+    filename: "/Users/henrik/_code/folit/node_modules/expo/src/Camera.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -77629,7 +77629,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _class,
       _temp,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/expo/src/effects/BlurView.ios.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/expo/src/effects/BlurView.ios.js";
 
   var _propTypes = require(_dependencyMap[2], "prop-types");
 
@@ -77656,7 +77656,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/expo/src/effects/BlurView.ios.js",
+    filename: "/Users/henrik/_code/folit/node_modules/expo/src/effects/BlurView.ios.js",
     components: _components,
     locals: [module],
     imports: [React.default]
@@ -77796,7 +77796,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/expo/src/KeepAwake.js",
+    filename: "/Users/henrik/_code/folit/node_modules/expo/src/KeepAwake.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -77868,7 +77868,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _class,
       _temp,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/expo/src/effects/LinearGradient.ios.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/expo/src/effects/LinearGradient.ios.js";
 
   var _propTypes = require(_dependencyMap[2], "prop-types");
 
@@ -77893,7 +77893,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/expo/src/effects/LinearGradient.ios.js",
+    filename: "/Users/henrik/_code/folit/node_modules/expo/src/effects/LinearGradient.ios.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -77981,7 +77981,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _index2 = _interopRequireDefault(_index);
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-maps/lib/components/MapView.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-maps/lib/components/MapView.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -78050,7 +78050,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native-maps/lib/components/MapView.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native-maps/lib/components/MapView.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -78522,7 +78522,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _index2 = _interopRequireDefault(_index);
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-maps/lib/components/MapMarker.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-maps/lib/components/MapMarker.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -78559,7 +78559,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native-maps/lib/components/MapMarker.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native-maps/lib/components/MapMarker.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -78837,7 +78837,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _index2 = _interopRequireDefault(_index);
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-maps/lib/components/MapPolyline.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-maps/lib/components/MapPolyline.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -78868,7 +78868,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native-maps/lib/components/MapPolyline.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native-maps/lib/components/MapPolyline.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -78962,7 +78962,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _index2 = _interopRequireDefault(_index);
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-maps/lib/components/MapPolygon.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-maps/lib/components/MapPolygon.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -78993,7 +78993,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native-maps/lib/components/MapPolygon.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native-maps/lib/components/MapPolygon.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -79091,7 +79091,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _index2 = _interopRequireDefault(_index);
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-maps/lib/components/MapCircle.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-maps/lib/components/MapCircle.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -79122,7 +79122,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native-maps/lib/components/MapCircle.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native-maps/lib/components/MapCircle.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -79215,7 +79215,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _index2 = _interopRequireDefault(_index);
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-maps/lib/components/MapCallout.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-maps/lib/components/MapCallout.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -79246,7 +79246,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native-maps/lib/components/MapCallout.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native-maps/lib/components/MapCallout.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -79323,7 +79323,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _index2 = _interopRequireDefault(_index);
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-maps/lib/components/MapUrlTile.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-maps/lib/components/MapUrlTile.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -79354,7 +79354,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native-maps/lib/components/MapUrlTile.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native-maps/lib/components/MapUrlTile.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -79418,7 +79418,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _index2 = _interopRequireDefault(_index);
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-maps/lib/components/MapLocalTile.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-maps/lib/components/MapLocalTile.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -79449,7 +79449,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native-maps/lib/components/MapLocalTile.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native-maps/lib/components/MapLocalTile.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -79708,7 +79708,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _class,
       _temp,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/expo/src/modal/Modal.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/expo/src/modal/Modal.js";
 
   var _propTypes = require(_dependencyMap[2], "prop-types");
 
@@ -79737,7 +79737,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/expo/src/modal/Modal.js",
+    filename: "/Users/henrik/_code/folit/node_modules/expo/src/modal/Modal.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -79826,7 +79826,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _class,
       _temp2,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/expo/src/modal/ModalHost.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/expo/src/modal/ModalHost.js";
 
   var _propTypes = require(_dependencyMap[2], "prop-types");
 
@@ -79857,7 +79857,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/expo/src/modal/ModalHost.js",
+    filename: "/Users/henrik/_code/folit/node_modules/expo/src/modal/ModalHost.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -80027,7 +80027,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/expo/src/modal/PureContainer.js",
+    filename: "/Users/henrik/_code/folit/node_modules/expo/src/modal/PureContainer.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -80073,7 +80073,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _index2 = _interopRequireDefault(_index);
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/expo/src/modal/ModalImplementation.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/expo/src/modal/ModalImplementation.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -80094,7 +80094,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/expo/src/modal/ModalImplementation.js",
+    filename: "/Users/henrik/_code/folit/node_modules/expo/src/modal/ModalImplementation.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -80283,7 +80283,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _class,
       _temp,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/expo/src/av/Video.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/expo/src/av/Video.js";
 
   var _propTypes = require(_dependencyMap[2], "prop-types");
 
@@ -80312,7 +80312,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/expo/src/av/Video.js",
+    filename: "/Users/henrik/_code/folit/node_modules/expo/src/av/Video.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -81923,7 +81923,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
     var _class,
         _temp2,
         _initialiseProps,
-        _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/Rect.js";
+        _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/Rect.js";
 
     var _react = require(_dependencyMap[0], "react");
 
@@ -82046,7 +82046,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
     var _class,
         _temp2,
         _initialiseProps,
-        _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/Path.js";
+        _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/Path.js";
 
     var _react = require(_dependencyMap[0], "react");
 
@@ -84997,7 +84997,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
     var _class,
         _temp2,
         _initialiseProps,
-        _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/Circle.js";
+        _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/Circle.js";
 
     var _react = require(_dependencyMap[0], "react");
 
@@ -85106,7 +85106,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
     var _class,
         _temp2,
         _initialiseProps,
-        _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/Ellipse.js";
+        _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/Ellipse.js";
 
     var _react = require(_dependencyMap[0], "react");
 
@@ -85225,7 +85225,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
     var _class,
         _temp2,
         _initialiseProps,
-        _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/Polygon.js";
+        _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/Polygon.js";
 
     var _propTypes = require(_dependencyMap[2], "prop-types");
 
@@ -85254,7 +85254,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
     };
 
     var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-        filename: "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/Polygon.js",
+        filename: "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/Polygon.js",
         components: _components,
         locals: [module],
         imports: [_react3.default]
@@ -85354,7 +85354,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
     var _class,
         _temp2,
         _initialiseProps,
-        _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/Polyline.js";
+        _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/Polyline.js";
 
     var _propTypes = require(_dependencyMap[2], "prop-types");
 
@@ -85383,7 +85383,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
     };
 
     var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-        filename: "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/Polyline.js",
+        filename: "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/Polyline.js",
         components: _components,
         locals: [module],
         imports: [_react3.default]
@@ -85467,7 +85467,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
     var _class,
         _temp2,
         _initialiseProps,
-        _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/Line.js";
+        _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/Line.js";
 
     var _react = require(_dependencyMap[0], "react");
 
@@ -85585,7 +85585,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
     var _class,
         _temp,
-        _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/Svg.js";
+        _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/Svg.js";
 
     var _propTypes = require(_dependencyMap[2], "prop-types");
 
@@ -85616,7 +85616,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
     };
 
     var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-        filename: "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/Svg.js",
+        filename: "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/Svg.js",
         components: _components,
         locals: [module],
         imports: [_react3.default]
@@ -85815,7 +85815,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
     var _class,
         _temp2,
         _initialiseProps,
-        _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/G.js";
+        _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/G.js";
 
     var _react = require(_dependencyMap[0], "react");
 
@@ -85916,7 +85916,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
     var _class,
         _temp2,
         _initialiseProps,
-        _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/Text.js";
+        _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/Text.js";
 
     var _react = require(_dependencyMap[0], "react");
 
@@ -86036,7 +86036,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
     Object.defineProperty(exports, "__esModule", {
         value: true
     });
-    var _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-svg/lib/extract/extractText.js";
+    var _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-svg/lib/extract/extractText.js";
 
     exports.default = function (props, container) {
         var x = props.x,
@@ -86204,7 +86204,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
     var _class,
         _temp2,
         _initialiseProps,
-        _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/TSpan.js";
+        _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/TSpan.js";
 
     var _react = require(_dependencyMap[0], "react");
 
@@ -86332,7 +86332,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
     var _class,
         _temp,
-        _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/TextPath.js";
+        _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/TextPath.js";
 
     var _react = require(_dependencyMap[0], "react");
 
@@ -86459,7 +86459,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
     var _class,
         _temp2,
         _initialiseProps,
-        _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/Use.js";
+        _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/Use.js";
 
     var _react = require(_dependencyMap[0], "react");
 
@@ -86585,7 +86585,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
     var _class,
         _temp2,
         _initialiseProps,
-        _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/Image.js";
+        _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/Image.js";
 
     var _react = require(_dependencyMap[0], "react");
 
@@ -86729,7 +86729,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
     var _class,
         _temp,
-        _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/Symbol.js";
+        _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/Symbol.js";
 
     var _propTypes = require(_dependencyMap[2], "prop-types");
 
@@ -86758,7 +86758,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
     };
 
     var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-        filename: "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/Symbol.js",
+        filename: "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/Symbol.js",
         components: _components,
         locals: [module],
         imports: [_react3.default]
@@ -86830,7 +86830,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
     var _class,
         _temp,
-        _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/Defs.js";
+        _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/Defs.js";
 
     var _createReactNativeComponentClass = require(_dependencyMap[2], "../lib/createReactNativeComponentClass");
 
@@ -86849,7 +86849,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
     };
 
     var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-        filename: "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/Defs.js",
+        filename: "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/Defs.js",
         components: _components,
         locals: [module],
         imports: [_react3.default]
@@ -86916,7 +86916,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
     var _class,
         _temp,
-        _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/LinearGradient.js";
+        _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/LinearGradient.js";
 
     var _propTypes = require(_dependencyMap[2], "prop-types");
 
@@ -86947,7 +86947,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
     };
 
     var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-        filename: "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/LinearGradient.js",
+        filename: "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/LinearGradient.js",
         components: _components,
         locals: [module],
         imports: [_react3.default]
@@ -87175,7 +87175,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
     };
 
     var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-        filename: "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/Stop.js",
+        filename: "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/Stop.js",
         components: _components,
         locals: [module],
         imports: [_react3.default]
@@ -87233,7 +87233,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
     var _class,
         _temp,
-        _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/RadialGradient.js";
+        _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/RadialGradient.js";
 
     var _propTypes = require(_dependencyMap[2], "prop-types");
 
@@ -87264,7 +87264,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
     };
 
     var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-        filename: "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/RadialGradient.js",
+        filename: "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/RadialGradient.js",
         components: _components,
         locals: [module],
         imports: [_react3.default]
@@ -87349,7 +87349,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
     var _class,
         _temp,
-        _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/ClipPath.js";
+        _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/ClipPath.js";
 
     var _propTypes = require(_dependencyMap[2], "prop-types");
 
@@ -87374,7 +87374,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
     };
 
     var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-        filename: "/Users/mikko/projects/folit/node_modules/react-native-svg/elements/ClipPath.js",
+        filename: "/Users/henrik/_code/folit/node_modules/react-native-svg/elements/ClipPath.js",
         components: _components,
         locals: [module],
         imports: [_react3.default]
@@ -90547,7 +90547,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
   var _stateToPropMappings,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-gesture-handler/GestureHandler.js",
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-gesture-handler/GestureHandler.js",
       _class3,
       _temp4,
       _class4,
@@ -90614,7 +90614,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native-gesture-handler/GestureHandler.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native-gesture-handler/GestureHandler.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -91385,7 +91385,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   var _class,
       _temp,
       _initialiseProps,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-gesture-handler/Swipeable.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-gesture-handler/Swipeable.js";
 
   var _reactNative = require(_dependencyMap[2], "react-native");
 
@@ -91408,7 +91408,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native-gesture-handler/Swipeable.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native-gesture-handler/Swipeable.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -91803,7 +91803,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   var _class,
       _temp,
       _initialiseProps,
-      _jsxFileName = "/Users/mikko/projects/folit/node_modules/react-native-gesture-handler/DrawerLayout.js";
+      _jsxFileName = "/Users/henrik/_code/folit/node_modules/react-native-gesture-handler/DrawerLayout.js";
 
   var _reactNative = require(_dependencyMap[2], "react-native");
 
@@ -91830,7 +91830,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/react-native-gesture-handler/DrawerLayout.js",
+    filename: "/Users/henrik/_code/folit/node_modules/react-native-gesture-handler/DrawerLayout.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -93179,7 +93179,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/@expo/vector-icons/createIconSet.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/@expo/vector-icons/createIconSet.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -93316,7 +93316,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/@expo/vector-icons/createIconSet.js",
+    filename: "/Users/henrik/_code/folit/node_modules/@expo/vector-icons/createIconSet.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -93343,7 +93343,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/@expo/vector-icons/vendor/react-native-vector-icons/lib/create-icon-set.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/@expo/vector-icons/vendor/react-native-vector-icons/lib/create-icon-set.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -93387,7 +93387,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/@expo/vector-icons/vendor/react-native-vector-icons/lib/create-icon-set.js",
+    filename: "/Users/henrik/_code/folit/node_modules/@expo/vector-icons/vendor/react-native-vector-icons/lib/create-icon-set.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -93611,7 +93611,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/@expo/vector-icons/vendor/react-native-vector-icons/lib/icon-button.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/@expo/vector-icons/vendor/react-native-vector-icons/lib/icon-button.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -93653,7 +93653,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/@expo/vector-icons/vendor/react-native-vector-icons/lib/icon-button.js",
+    filename: "/Users/henrik/_code/folit/node_modules/@expo/vector-icons/vendor/react-native-vector-icons/lib/icon-button.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -94599,7 +94599,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/@expo/vector-icons/vendor/react-native-vector-icons/lib/tab-bar-item-ios.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/@expo/vector-icons/vendor/react-native-vector-icons/lib/tab-bar-item-ios.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -94635,7 +94635,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/@expo/vector-icons/vendor/react-native-vector-icons/lib/tab-bar-item-ios.js",
+    filename: "/Users/henrik/_code/folit/node_modules/@expo/vector-icons/vendor/react-native-vector-icons/lib/tab-bar-item-ios.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -94742,7 +94742,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _index2 = _interopRequireDefault(_index);
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/@expo/vector-icons/vendor/react-native-vector-icons/lib/toolbar-android.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/@expo/vector-icons/vendor/react-native-vector-icons/lib/toolbar-android.js";
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
@@ -94780,7 +94780,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/@expo/vector-icons/vendor/react-native-vector-icons/lib/toolbar-android.js",
+    filename: "/Users/henrik/_code/folit/node_modules/@expo/vector-icons/vendor/react-native-vector-icons/lib/toolbar-android.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -101336,7 +101336,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/expo/src/facebook-ads/withNativeAd.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/expo/src/facebook-ads/withNativeAd.js";
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -101366,7 +101366,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _reactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/node_modules/expo/src/facebook-ads/withNativeAd.js",
+    filename: "/Users/henrik/_code/folit/node_modules/expo/src/facebook-ads/withNativeAd.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -101598,7 +101598,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
-  var _jsxFileName = "/Users/mikko/projects/folit/node_modules/expo/src/facebook-ads/BannerViewManager.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/node_modules/expo/src/facebook-ads/BannerViewManager.js";
 
   var _react = require(_dependencyMap[0], "react");
 
@@ -102137,7 +102137,9 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _index2 = _interopRequireDefault(_index);
 
-  var _jsxFileName = "/Users/mikko/projects/folit/App.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/App.js";
+
+  var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -102168,7 +102170,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _node_modulesReactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/App.js",
+    filename: "/Users/henrik/_code/folit/App.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -102180,10 +102182,6 @@ __d(function (global, require, module, exports, _dependencyMap) {
     };
   }
 
-  if (_reactNative.Platform.OS !== "ios") {
-    _reactNative.UIManager.setLayoutAnimationEnabledExperimental && _reactNative.UIManager.setLayoutAnimationEnabledExperimental(true);
-  }
-
   var App = _wrapComponent("App")(function (_React$Component) {
     _inherits(App, _React$Component);
 
@@ -102193,9 +102191,18 @@ __d(function (global, require, module, exports, _dependencyMap) {
       var _this = _possibleConstructorReturn(this, (App.__proto__ || Object.getPrototypeOf(App)).call(this, props));
 
       _this.state = {
-        folit: []
+        folit: [],
+        region: {
+          latitude: 60.4503888,
+          longitude: 22.2617936,
+          latitudeDelta: 0.1,
+          longitudeDelta: 0.1
+        }
       };
       _this.fetchFolit = _this.fetchFolit.bind(_this);
+      _this.onRegionChange = _this.onRegionChange.bind(_this);
+      _this.hasValidLocation = _this.hasValidLocation.bind(_this);
+      _this.isInRange = _this.isInRange.bind(_this);
       return _this;
     }
 
@@ -102220,11 +102227,30 @@ __d(function (global, require, module, exports, _dependencyMap) {
         }, null, this);
       }
     }, {
+      key: "hasValidLocation",
+      value: function hasValidLocation(vehicle) {
+        return vehicle.latitude && vehicle.latitude > 0 && vehicle.longitude && vehicle.longitude > 0;
+      }
+    }, {
+      key: "isInRange",
+      value: function isInRange(latOrLong, delta, valueToCheck) {
+        return latOrLong - 0.5 * delta <= valueToCheck && valueToCheck <= latOrLong + 0.5 * delta;
+      }
+    }, {
+      key: "hasLocationInRegion",
+      value: function hasLocationInRegion(vehicle, region) {
+        if (vehicle.publishedlinename == "73") {
+          var a = 1;
+        }
+
+        return this.isInRange(region.latitude, region.latitudeDelta, vehicle.latitude) && this.isInRange(region.longitude, region.longitudeDelta, vehicle.longitude);
+      }
+    }, {
       key: "fetchFolit",
       value: function fetchFolit() {
         var _this2 = this;
 
-        var response, json, vehicles, validVehicles;
+        var response, json, vehicles, validVehicles, vehiclesInView;
         return regeneratorRuntime.async(function fetchFolit$(_context2) {
           while (1) {
             switch (_context2.prev = _context2.next) {
@@ -102241,23 +102267,37 @@ __d(function (global, require, module, exports, _dependencyMap) {
                 json = _context2.sent;
                 vehicles = Object.values(json.result.vehicles);
                 validVehicles = vehicles.filter(function (vehicle) {
-                  return vehicle.latitude && vehicle.latitude > 0 && vehicle.longitude && vehicle.longitude > 0;
+                  return _this2.hasValidLocation(vehicle);
                 });
+                validVehicles = validVehicles.map(function (vehicle) {
+                  return _extends({}, vehicle, {
+                    isInView: _this2.hasLocationInRegion(vehicle, _this2.state.region)
+                  });
+                });
+                vehiclesInView = validVehicles.filter(function (vehicle) {
+                  return vehicle.isInView;
+                });
+                console.log("Vehicle count: " + vehiclesInView.length);
 
                 _reactNative.InteractionManager.runAfterInteractions(function () {
-                  _reactNative.LayoutAnimation.configureNext(_reactNative.LayoutAnimation.Presets.easeInEaseOut);
-
                   _this2.setState({
                     folit: validVehicles
                   });
                 });
 
-              case 9:
+              case 12:
               case "end":
                 return _context2.stop();
             }
           }
         }, null, this);
+      }
+    }, {
+      key: "onRegionChange",
+      value: function onRegionChange(region) {
+        this.setState({
+          region: region
+        });
       }
     }, {
       key: "render",
@@ -102268,15 +102308,11 @@ __d(function (global, require, module, exports, _dependencyMap) {
             style: {
               flex: 1
             },
-            initialRegion: {
-              latitude: 60.4503888,
-              longitude: 22.2617936,
-              latitudeDelta: 0.1,
-              longitudeDelta: 0.1
-            },
+            initialRegion: this.state.region,
+            onRegionChange: this.onRegionChange,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 57
+              lineNumber: 86
             }
           },
           this.state.folit.map(function (foli) {
@@ -102287,7 +102323,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
               longitude: foli.longitude,
               __source: {
                 fileName: _jsxFileName,
-                lineNumber: 68
+                lineNumber: 93
               }
             });
           })
@@ -102568,7 +102604,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
 
   var _index2 = _interopRequireDefault(_index);
 
-  var _jsxFileName = "/Users/mikko/projects/folit/Foli.js";
+  var _jsxFileName = "/Users/henrik/_code/folit/Foli.js";
 
   var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
@@ -102595,7 +102631,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
   };
 
   var _node_modulesReactTransformHmrLibIndexJs2 = (0, _index2.default)({
-    filename: "/Users/mikko/projects/folit/Foli.js",
+    filename: "/Users/henrik/_code/folit/Foli.js",
     components: _components,
     locals: [module],
     imports: [_react3.default]
@@ -102627,7 +102663,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
     _createClass(Foli, [{
       key: "componentWillReceiveProps",
       value: function componentWillReceiveProps(nextProps) {
-        var duration = 500;
+        var duration = 1500;
         var nextCoordinate = {
           latitude: nextProps.latitude,
           longitude: nextProps.longitude
@@ -102671,10 +102707,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
             ref: function ref(marker) {
               _this2.marker = marker;
             },
-            coordinate: {
-              latitude: latitude,
-              longitude: longitude
-            },
+            coordinate: this.state.coordinate,
             __source: {
               fileName: _jsxFileName,
               lineNumber: 60
@@ -102683,9 +102716,14 @@ __d(function (global, require, module, exports, _dependencyMap) {
           _react3.default.createElement(
             _reactNative.View,
             {
+              renderToHardwareTextureAndroid: true,
               style: {
                 alignItems: "center",
-                justifyContent: "center"
+                justifyContent: "center",
+                backgroundColor: "#fff",
+                paddingVertical: 2,
+                paddingHorizontal: 6,
+                borderRadius: 10
               },
               __source: {
                 fileName: _jsxFileName,
@@ -102701,7 +102739,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
                 },
                 __source: {
                   fileName: _jsxFileName,
-                  lineNumber: 72
+                  lineNumber: 77
                 }
               },
               name
@@ -102712,7 +102750,7 @@ __d(function (global, require, module, exports, _dependencyMap) {
               color: "green",
               __source: {
                 fileName: _jsxFileName,
-                lineNumber: 73
+                lineNumber: 78
               }
             })
           )
